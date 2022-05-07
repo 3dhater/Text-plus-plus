@@ -50,3 +50,14 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+build/tpp/.vs/
+build/tpp/Debug/
+build/tpp/Release/
+*.suo
+
+build/tpp/x64/Debug/
+build/tpp/x64/Release/
+build/tpp/x86/Debug/
+build/tpp/x86/Release/
+migui/src/
+migui/libs/
